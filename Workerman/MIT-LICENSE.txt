@@ -1,4 +1,5 @@
 The MIT License
+the addition
 
 Copyright (c) 2009-2015 walkor<walkor@workerman.net> and contributors (see https://github.com/walkor/workerman/contributors)
 
